@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @houyaowei
-- 👀 I’m interested in javascript and go
+- 👀 Go & Rust & Web Developer
 - 📫 you can contact me with github.com/houyaowei or houyaowei@163.com
 
 <!---
